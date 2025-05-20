@@ -1,3 +1,3 @@
 # Assignment 1
 
-Git basics and Inermediate 
+Git basics and Intermediate 
