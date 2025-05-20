@@ -2,4 +2,4 @@
 
 Git basics and Intermediate .
 
-Edit in main branch.
+change from conflicting-branch
